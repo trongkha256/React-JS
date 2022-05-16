@@ -1,0 +1,11 @@
+.row{
+    display: flex;
+    flex-direction: row;
+
+}
+.row .col1{
+    width: 80%;
+}
+.row .col2{
+    width: 20%;
+}

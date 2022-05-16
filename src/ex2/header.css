@@ -1,0 +1,22 @@
+.header {
+    background-color: #f8e1db;
+    padding-left: 40px;
+    padding-top: 10px;
+    /*; Khoảng cach1 từ viền tới nd */
+}
+
+.header .logo {
+    width: 70px;
+}
+
+.header .navbar a {
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    /* marigin là khoảng cách giữa các thẻ */
+}
+
+.header .navbar a:hover {
+    color: red;
+}
